@@ -18,7 +18,7 @@ This is the first github project I have ever created. The project itself is simp
 
 System Diagram
 =======================
- .. image:: images/IMG_4585.JPG
+ .. image:: IMG_4585.JPG
 
 
 IP-core Creation
