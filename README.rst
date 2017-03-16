@@ -29,7 +29,7 @@ Camera Interface
 
 Result on Board
 =======================
-   .. image::/image/IMG_4585.JPG
+   .. image:: image/IMG_4585.JPG
    :align: center
 
 Summary
