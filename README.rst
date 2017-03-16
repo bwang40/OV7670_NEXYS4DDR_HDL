@@ -21,6 +21,7 @@ System Diagram
 
 
 Two Pmod IOPs are included in the base overlay to control each of the two Pmod interfaces on the board. 
+
 .. image:: IMG_4585.JPG
    :align: center
  
