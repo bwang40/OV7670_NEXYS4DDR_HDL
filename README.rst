@@ -27,6 +27,16 @@ IP-core Creation
 Camera Interface
 =======================
 
+Result on Board
+=======================
+.. image:: ./image/IMG_4585.JPG
+   :align: center
+
+.. image:: ./image/IMG_4587.JPG
+   :align: center
+
+
+
 
 Summary
 =======================
