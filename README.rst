@@ -20,12 +20,8 @@ This is the first github project I have ever created. The project itself is simp
 System Diagram
 =======================
 
-.. class:: no-web
-
-    .. image:: https://raw.githubusercontent.com/jakubroztocil/httpie/master/httpie.png
-        :alt: HTTPie compared to cURL
-        :width: 100%
-        :align: center
+.. image:: https://raw.githubusercontent.com/jakubroztocil/httpie/master/httpie.png
+   :align: center
    
 As indicated in the diagram, the Pmod IOP has a MicroBlaze, a configurable switch, and the following peripherals: 
 
