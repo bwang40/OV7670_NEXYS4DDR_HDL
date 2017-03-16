@@ -20,10 +20,8 @@ This is the first github project I have ever created. The project itself is simp
 System Diagram
 =======================
 
-
-Two Pmod IOPs are included in the base overlay to control each of the two Pmod interfaces on the board 
-
-<a href="image" target="_blank"><img src="download.png"/></a>
+.. image:: OV7670_NEXYS4DDR_HDL/images/IMG_4585.JPG
+   :align: center
    
 As indicated in the diagram, the Pmod IOP has a MicroBlaze, a configurable switch, and the following peripherals: 
 
