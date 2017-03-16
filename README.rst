@@ -29,7 +29,7 @@ Camera Interface
 
 Result on Board
 =======================
-.. image:: /images/IMG_4585.JPG
+
 
 Summary
 =======================
