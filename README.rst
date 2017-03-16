@@ -21,9 +21,7 @@ System Diagram
 
 
 Two Pmod IOPs are included in the base overlay to control each of the two Pmod interfaces on the board. 
-
 .. image:: download.png
-   :align: center
  
 As indicated in the diagram, the Pmod IOP has a MicroBlaze, a configurable switch, and the following peripherals: 
 
