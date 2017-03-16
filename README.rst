@@ -20,7 +20,7 @@ This is the first github project I have ever created. The project itself is simp
 System Diagram
 =======================
 
-.. image:: OV7670_NEXYS4DDR_HDL/images/IMG_4585.JPG
+.. image:: https://github.com/bwang40/OV7670_NEXYS4DDR_HDL.git/OV7670_NEXYS4DDR_HDL/images/IMG_4585.JPG
    :align: center
    
 As indicated in the diagram, the Pmod IOP has a MicroBlaze, a configurable switch, and the following peripherals: 
