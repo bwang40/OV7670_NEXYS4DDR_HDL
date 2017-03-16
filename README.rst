@@ -16,13 +16,6 @@ Also, this `page <http://hamsterworks.co.nz/mediawiki/index.php/OV7670_camera>`_
 
 This is the first github project I have ever created. The project itself is simple and straight forward, all I want is to get familiar with Github and reStructuredText. Hopefully this is helpful for you if you are new to FPGA.
 
-.. class:: no-web
-
-    .. image:: https://raw.githubusercontent.com/jakubroztocil/httpie/master/httpie.png
-        :alt: HTTPie compared to cURL
-        :width: 100%
-        :align: center
-
 
 IP-core Creation
 =======================
