@@ -23,8 +23,7 @@ System Diagram
 
 Two Pmod IOPs are included in the base overlay to control each of the two Pmod interfaces on the board 
 
-.. image:: OV7670_NEXYS4DDR_HDL/download.png
-   :align: center
+<a href="image" target="_blank"><img src="download.png"/></a>
    
 As indicated in the diagram, the Pmod IOP has a MicroBlaze, a configurable switch, and the following peripherals: 
 
