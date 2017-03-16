@@ -29,8 +29,7 @@ Camera Interface
 
 Result on Board
 =======================
-   .. image:: /images/picture.png
-   :align: center
+.. image:: /images/picture.png
 
 Summary
 =======================
