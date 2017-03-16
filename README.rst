@@ -20,8 +20,12 @@ This is the first github project I have ever created. The project itself is simp
 System Diagram
 =======================
 
-.. image:: https://github.com/bwang40/OV7670_NEXYS4DDR_HDL/blob/master/images/IMG_4585.JPG
-   :align: center
+.. class:: no-web
+
+    .. image:: https://raw.githubusercontent.com/jakubroztocil/httpie/master/httpie.png
+        :alt: HTTPie compared to cURL
+        :width: 100%
+        :align: center
    
 As indicated in the diagram, the Pmod IOP has a MicroBlaze, a configurable switch, and the following peripherals: 
 
