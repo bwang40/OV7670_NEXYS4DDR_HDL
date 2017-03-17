@@ -19,7 +19,6 @@ This is the first github project I have ever created. The project itself is simp
 IP-core Creation
 =======================
 
-|pypi| |unix_build| |windows_build| |coverage| |gitter|
 
 Camera Interface
 =======================
