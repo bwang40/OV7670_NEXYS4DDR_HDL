@@ -19,7 +19,15 @@ This is the first github project I have ever created. The project itself is simp
 IP-core Creation
 =======================
 
-.. image:: https://raw.githubusercontent.com/jakubroztocil/httpie/master/httpie.png
+.. class:: no-web
+
+    .. image:: https://raw.githubusercontent.com/jakubroztocil/httpie/master/httpie.png
+        :alt: HTTPie compared to cURL
+        :width: 100%
+        :align: center
+
+
+.. class:: no-web no-pdf
 
 Camera Interface
 =======================
