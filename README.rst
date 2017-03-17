@@ -29,6 +29,8 @@ IP-core Creation
 
 .. class:: no-web no-pdf
 
+|pypi| |unix_build| |windows_build| |coverage| |gitter|
+
 Camera Interface
 =======================
 
