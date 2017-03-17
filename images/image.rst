@@ -1,4 +1,3 @@
-
 HTTPie: a CLI, cURL-like tool for humans
 ########################################
 
@@ -1676,3 +1675,4 @@ have contributed.
 .. |gitter| image:: https://img.shields.io/gitter/room/jakubroztocil/httpie.svg?style=flat-square
     :target: https://gitter.im/jakubroztocil/httpie
     :alt: Chat on Gitter
+
