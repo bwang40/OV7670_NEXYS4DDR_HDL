@@ -19,7 +19,7 @@ This is the first github project I have ever created. The project itself is simp
 Camera Interface
 =======================
 .. image:: https://github.com/bwang40/OV7670_NEXYS4DDR_HDL/blob/master/images/ov7670.PNG
-   :scale: 50
+   :scale: 25
 +---+----+---+----+
 |PIN|SIG |PIN|SIG |
 +===+====+===+====+
