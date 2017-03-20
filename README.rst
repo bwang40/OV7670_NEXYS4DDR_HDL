@@ -20,6 +20,7 @@ Camera Interface
 =======================
 .. image:: https://github.com/bwang40/OV7670_NEXYS4DDR_HDL/blob/master/images/ov7670.PNG
 
+.. table:: Truth table for "not"
    +-----------------------+-----------------------+
    | Symbol                | Meaning               |
    +=======================+=======================+
