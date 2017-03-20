@@ -20,19 +20,26 @@ Camera Interface
 =======================
 .. image:: https://github.com/bwang40/OV7670_NEXYS4DDR_HDL/blob/master/images/ov7670.PNG
 
-+------------------------+------------+----------+----------+
-| Header row, column 1   | Header 2   | Header 3 | Header 4 |
-| (header rows optional) |            |          |          |
-+========================+============+==========+==========+
-| body row 1, column 1   | column 2   | column 3 | column 4 |
-+------------------------+------------+----------+----------+
-| body row 2             | Cells may span columns.          |
-+------------------------+------------+---------------------+
-| body row 3             | Cells may  | - Table cells       |
-+------------------------+ span rows. | - contain           |
-| body row 4             |            | - body elements.    |
-+------------------------+------------+---------------------+
-   
++----+----+
+| D1 | D0 | 
++----+----+
+| D3 | D2 | 
++----+----+
+| D5 | D4 | 
++----+----+
+| D7 | D6 | 
++----+----+
+| PCK| XCK| 
++----+----+
+| VS | HS | 
++----+----+
+| SCL| SDA| 
++----+----+
+| 3V3| GND| 
++----+----+
+
+
+
 
 
 IP-core Creation
