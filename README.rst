@@ -21,7 +21,7 @@ Camera Interface
 .. image:: https://github.com/bwang40/OV7670_NEXYS4DDR_HDL/blob/master/images/ov7670.PNG
 +---+----+---+----+
 |PIN|SIG |PIN|SIG |
-+---+----+---+----+
++===+====+===+====+
 |1  | D1 |2  | D0 | 
 +---+----+---+----+
 |3  | D3 |4  | D2 | 
