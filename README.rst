@@ -18,7 +18,9 @@ This is the first github project I have ever created. The project itself is simp
 
 IP-core Creation
 =======================
-.. image:: download.png
+.. image:: https://github.com/bwang40/OV7670_NEXYS4DDR_HDL/blob/master/images/IMG_4585.JPG
+
+.. image:: https://github.com/bwang40/OV7670_NEXYS4DDR_HDL/blob/master/images/IMG_4587.JPG
 
 Camera Interface
 =======================
