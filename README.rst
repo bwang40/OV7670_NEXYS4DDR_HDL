@@ -18,7 +18,7 @@ This is the first github project I have ever created. The project itself is simp
 
 IP-core Creation
 =======================
-
+.. image:: download.png
 
 Camera Interface
 =======================
