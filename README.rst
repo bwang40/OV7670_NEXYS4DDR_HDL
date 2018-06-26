@@ -46,9 +46,13 @@ Camera Interface
 
 
 
-IP-core Creation
+Vivado IP-Integrator
 =======================
 .. image:: https://github.com/bwang40/OV7670_NEXYS4DDR_HDL/blob/master/images/IMG_4560.JPG
+
+A diagram plotted in VISIO will give you a better understand about the diagram of the system design.
+
+.. image:: https://github.com/bwang40/OV7670_NEXYS4DDR_HDL/blob/master/images/ov7670_bd.png
 
 
 
