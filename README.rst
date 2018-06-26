@@ -61,8 +61,6 @@ Result
 
 .. image:: https://github.com/bwang40/OV7670_NEXYS4DDR_HDL/blob/master/images/IMG_4587.JPG
 
-.. image:: https://github.com/bwang40/OV7670_NEXYS4DDR_HDL/blob/master/images/IMG_4590.JPG
-
 .. image:: https://github.com/bwang40/OV7670_NEXYS4DDR_HDL/blob/master/images/IMG_4559.JPG
 
 
